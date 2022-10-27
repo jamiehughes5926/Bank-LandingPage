@@ -51,7 +51,7 @@ function Navbar() {
       {/* LOGO */}
       <motion.img
         src={logo}
-        alt="hoobank"
+        alt="Next Pay"
         className="w-[124px] h-[32px]"
         variants={logoVariants}
         initial="hidden"
